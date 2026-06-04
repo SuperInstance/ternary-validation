@@ -1,0 +1,7 @@
+[package]
+name = "ternary-validation"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Validate ternary strategies against constraints"
+repository = "https://github.com/SuperInstance/ternary-validation"
