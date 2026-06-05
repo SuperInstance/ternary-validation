@@ -102,3 +102,11 @@ Validates strategies produced by `ternary-grammar` (parsed and evaluated express
 ## License
 
 MIT
+
+## See Also
+- **ternary-metrics** — related
+- **ternary-fitness** — related
+- **ternary-scoring** — related
+- **ternary-experiment** — related
+- **ternary-benchmark** — related
+
